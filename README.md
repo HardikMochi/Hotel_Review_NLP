@@ -7,6 +7,7 @@
 <strong> Here is a demo application of the review classifier: https://hotelreviewnlp.herokuapp.com/ </strong> 
 
 Try it out by inputting a review that you found online, or wrote yourself, and it will clasify the review with a score between 1-5.
+<table><tr><td><img src='https://github.com/HardikMochi/Hotel_Review_NLP/blob/master/image/hotel.PNG' width=500></td><td><img src='https://github.com/HardikMochi/Hotel_Review_NLP/blob/master/image/negative.PNG' width=500></td></tr></table>
 
 ## Business Case
 Potential customers, could have their hotel choice be influenced by a tweet. Opinions are shared constantly on social media platforms, and are read by their followers. The knowledge, of what these followers think about our hotel, from reading these online posts, could help us better understand the general public's perception of our hotel. 
